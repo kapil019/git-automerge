@@ -1,4 +1,6 @@
 ```
+#!/bin/bash
+# declare an array called files, that contains 3 values
 #!/usr/bin/expect -f
 
 declare -a RepoPaths=(
